@@ -5,8 +5,8 @@ https://github.com/haroonshakeel/yolov7-object-tracking
 https://github.com/WongKinYiu/yolov7
 
 
-** 1.conda create -n yolov7_tracking python=3.9
-2.conda activate yolov7_tracking
+#### 1.conda create -n yolov7_tracking python=3.9
+#### 2.conda activate yolov7_tracking
 3.git clone https://github.com/haroonshakeel/yolov7-object-tracking.git
 4.cd yolov7-object-tracking
 5.pip install -r requirements.txt
