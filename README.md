@@ -1,9 +1,5 @@
-# yolov7_tracking
-
-https://www.youtube.com/watch?v=K_OGcfXwskc  
-https://github.com/haroonshakeel/yolov7-object-tracking  
-https://github.com/WongKinYiu/yolov7  
-
+# yolov7_tracking  
+## Install
 #### 1.conda create -n yolov7_tracking python=3.9
 #### 2.conda activate yolov7_tracking
 #### 3.git clone https://github.com/phawitb/yolov7_tracking.git
@@ -15,8 +11,13 @@ https://github.com/WongKinYiu/yolov7
 
 
 #### ---------------------------------------------------------------------------
+## Reference
+https://www.youtube.com/watch?v=K_OGcfXwskc   
+https://github.com/haroonshakeel/yolov7-object-tracking  
+https://github.com/WongKinYiu/yolov7  
 
 
+#### ---------------------------------------------------------------------------
 #### 1.conda create -n yolov7_tracking python=3.9
 #### 2.conda activate yolov7_tracking
 #### 3.git clone https://github.com/haroonshakeel/yolov7-object-tracking.git
