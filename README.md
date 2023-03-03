@@ -11,6 +11,7 @@
 - python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img  --source sources/street.mp4  
 - python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4 --show-fps --seed 2 --track --classes 0 1 --show-track --unique-track-color --nobbox --thickness 3
 
+#### 7. Others
 - --seed > change color label
 - Check class > https://github.com/WongKinYiu/yolov7/blob/main/data/coco.yaml
 
