@@ -7,7 +7,7 @@ https://github.com/WongKinYiu/yolov7
 #### 1.conda create -n yolov7_tracking python=3.9
 #### 2.conda activate yolov7_tracking
 #### 3.git clone https://github.com/phawitb/yolov7_tracking.git
-#### 4.cd yolov7-object-tracking
+#### 4.cd yolov7_tracking
 #### 5.pip install -r requirements.txt
 #### 6.python load_sources.py
 #### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4
