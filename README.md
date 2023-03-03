@@ -7,10 +7,8 @@
 #### 5.pip install -r requirements.txt
 #### 6.python load_sources.py (wait a few minutes)
 #### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4
-#### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img  --source sources/street.mp4
+#### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img  --source sources/street.mp4  
 
-
-#### ---------------------------------------------------------------------------
 ## Reference
 https://www.youtube.com/watch?v=K_OGcfXwskc   
 https://github.com/haroonshakeel/yolov7-object-tracking  
