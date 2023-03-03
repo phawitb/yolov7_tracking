@@ -4,7 +4,9 @@
 #### 2. conda activate yolov7_tracking
 #### 3. git clone https://github.com/phawitb/yolov7_tracking.git
 #### 4. cd yolov7_tracking
-#### 5. pip install -r requirements.txt
+#### 5. install package
+- pip install -r requirements.txt
+- if GPU >> pip install -r requirements_gpu.txt
 #### 6. Run
 - python load_sources.py (wait a few minutes)
 - python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4 --show-fps
@@ -12,8 +14,8 @@
 - python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4 --show-fps --seed 2 --track --classes 0 1 --show-track --unique-track-color --nobbox --thickness 3
 
 #### 7. Others
-- --seed > change color label
-- Check class > https://github.com/WongKinYiu/yolov7/blob/main/data/coco.yaml
+- --seed >> change color label
+- Check class >> https://github.com/WongKinYiu/yolov7/blob/main/data/coco.yaml
 
 ## Reference
 https://www.youtube.com/watch?v=K_OGcfXwskc   
