@@ -9,7 +9,7 @@ https://github.com/WongKinYiu/yolov7
 #### 3.git clone https://github.com/phawitb/yolov7_tracking.git
 #### 4.cd yolov7_tracking
 #### 5.pip install -r requirements.txt
-#### 6.python load_sources.py
+#### 6.python load_sources.py (wait a few minutes)
 #### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4
 #### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img  --source sources/street.mp4
 
