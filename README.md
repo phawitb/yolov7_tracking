@@ -6,8 +6,11 @@
 #### 4.cd yolov7_tracking
 #### 5.pip install -r requirements.txt
 #### 6.python load_sources.py (wait a few minutes)
-#### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4
+#### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4 --show-fps
 #### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img  --source sources/street.mp4  
+#### python detect_or_track.py --weights sources/yolov7.pt --no-trace --view-img --nosave --source sources/street.mp4 --show-fps --seed 2 --track --classes 0 --show-track --unique-track-color --nobbox --thickness 3
+
+#### check class > 
 
 ## Reference
 https://www.youtube.com/watch?v=K_OGcfXwskc   
